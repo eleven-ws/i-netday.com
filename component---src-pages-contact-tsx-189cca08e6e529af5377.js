@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunki_netday_com=self.webpackChunki_netday_com||[]).push([[313],{9015:function(n,l,u){u.r(l),u.d(l,{Head:function(){return f}});var e=u(7026),t=u(3392),c=u(8445),a=u(4938),s=u(2500),Y=u(8596),d=u(5428);l.default=()=>(0,d.Y)(c.PE,null,(0,d.Y)(t.A,null,(0,d.Y)(e.A,null,(0,d.Y)(s.B,null),(0,d.Y)(Y.w,null))));const f=()=>(0,d.Y)(a.G,null)}}]);
+//# sourceMappingURL=component---src-pages-contact-tsx-189cca08e6e529af5377.js.map
